@@ -316,7 +316,13 @@ ul {
 }
 
 dd {
-  margin: 0 0 0 40px;
+  display: inline;
+  margin: 0;
+}
+
+dd:after{
+  display: block;
+  content: '';
 }
 
 /*
@@ -692,6 +698,8 @@ dt {
   color: #F0E7D5;
   font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
+  display: inline-block;
+  min-width: 100px;
 }
 
 #header {
