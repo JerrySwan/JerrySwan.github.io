@@ -871,3 +871,7 @@ section #title .credits.right {
     display: none;
   }
 }
+
+.itemize1 {
+  width:80%;
+}
