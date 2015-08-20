@@ -323,7 +323,7 @@ ul {
 
 dd {
     float: left;
-    width: 200px;
+    width: 80%; /*200px;*/
     padding: 5px 0;
     margin:0;
 }
