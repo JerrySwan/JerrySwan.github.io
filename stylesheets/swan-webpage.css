@@ -1,5 +1,21 @@
- 
+
+
 /* start css.sty */
+
+.color-primary-1 { color: #5E5EBF }
+.color-primary-2 { color: #3E3EAF }
+.color-primary-3 { color: #141482 }
+.color-primary-4 { color: #0C0C66 }
+
+/* As RGBa codes */
+
+.rgba-primary-0 { color: rgba( 30, 30,165,1) }	/* Main Primary color */
+.rgba-primary-1 { color: rgba( 94, 94,191,1) }
+.rgba-primary-2 { color: rgba( 62, 62,175,1) }
+.rgba-primary-3 { color: rgba( 20, 20,130,1) }
+.rgba-primary-4 { color: rgba( 12, 12,102,1) }
+
+
 .cmr-10x-x-109{}
 .cmtt-10x-x-109{font-family: monospace;}
 .cmr-17x-x-143{font-size:221%;}
